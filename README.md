@@ -6,8 +6,8 @@ This repository contains several React applications created using [Vite](https:/
 ## Table of Contents
 
 - [Dependencies](#dependencies)
-- [Scripts](#scripts)
 - [Installation](#installation)
+- [Scripts](#scripts)
 - [Usage](#usage)
 
 ## Dependencies
