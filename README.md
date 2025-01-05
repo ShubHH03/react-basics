@@ -17,13 +17,6 @@ Each project has its own dependencies listed in their respective `package.json` 
 - React: ^18.2.0
 - React DOM: ^18.2.0
 
-## Scripts
-
-Each project has its own scripts defined in their respective `package.json` files. Here are some common scripts:
-
-- `dev` - Starts the development server.
-- `build` - Builds the application for production.
-- `preview` - Previews the production build.
 
 ## Installation
 
@@ -32,6 +25,16 @@ To install the dependencies for each project, navigate to the project directory 
 ```bash
 npm install
 ```
+
+
+## Scripts
+
+Each project has its own scripts defined in their respective `package.json` files. Here are some common scripts:
+
+- `dev` - Starts the development server.
+- `build` - Builds the application for production.
+- `preview` - Previews the production build.
+
 
 ## Usage
 
